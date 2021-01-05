@@ -1,4 +1,4 @@
-# function
+# Function
 
 1. 	Local Parameter
 2.	Eksternal Parameter
